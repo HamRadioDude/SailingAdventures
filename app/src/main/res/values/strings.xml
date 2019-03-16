@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sailing Adventures</string>
+    <string name="imgSail">Sailing Image</string>
+    <string name="txtTitle">Sailing Adventures - McHenry IL</string>
+    <string name="txtDescription">Sailing Adventures located at McCullom Lake on the Petersen Park Beach in McHenry, has simple sailing philosophy - We create Adventure! Our experience, expertise and knowledge of the high levels of toxic water provide our customers with the best chance of coming out with an extra arm.  Select a date for your sailing day trip</string>
+    <string name="btnDate">Select the Date for a Full-Day Sailing Trip</string>
+</resources>
